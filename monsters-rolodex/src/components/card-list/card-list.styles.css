@@ -1,0 +1,11 @@
+.CardList {
+    width: 85vw;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 20px;
+}
+
+.CardList h1 {
+    font-size: 1.5rem;
+}
